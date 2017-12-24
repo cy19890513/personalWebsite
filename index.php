@@ -32,27 +32,27 @@
 		<!--
 			<img src="./index_files/headshot.jpg" alt="Pretty Face" class="img_floatright" width="400" height="300"> 
 		-->	 
-			<section class="slider" width="400" height="300">
-				<div class="flexslider">
-				  <ul class="slides">
-					<li>
-					<img src="./index_files/slideImage1.jpg" />
-					</li>
-					<li>
-					<img src="./index_files/slideImage2.JPG" />
-					</li>
-					<li>
-					<img src="./index_files/slideImage3.JPG" />
-					</li>
-					<li>
-					<img src="./index_files/slideImage4.JPG" />
-					</li>
-                                        <li>
-					<img src="./index_files/slideImage5.JPG" />
-					</li>
-				  </ul>
-				</div>
-			</section>
+		<section class="slider" width="400" height="300">
+			<div class="flexslider">
+			  <ul class="slides">
+				<li>
+				<img src="./index_files/slideImage1.jpg" />
+				</li>
+				<li>
+				<img src="./index_files/slideImage2.JPG" />
+				</li>
+				<li>
+				<img src="./index_files/slideImage3.JPG" />
+				</li>
+				<li>
+				<img src="./index_files/slideImage4.JPG" />
+				</li>
+                                    <li>
+				<img src="./index_files/slideImage5.JPG" />
+				</li>
+			  </ul>
+			</div>
+		</section>
 		  
 		  <h1>Welcome!</h1>
 	  <p></p><h3>Contact Information:</h3>
@@ -66,8 +66,8 @@
 	    <p/>
 	    <li>Email is a good way to contact me. I read my email daily.</li></ul><p></p>
            <p></p><h3>Summary:</h3><ul>
-		<li>
-                I evaluate myself as confident, smart, hard working and never quit.
+		<li id="summaryPar">
+                I am an experienced programmer with a strong full stack knowledge. I have worked on the website has 2M visits and Rank 7600 in U.S. My programming language stack include Java, Python, JavaScript, HTML, CSS, IOS, SAP, Android, C/C++, PHP, OOD, Swift and MYSQL. Operating system like linux, unix, FreeBSD, AWS, windows, mac. My experience include working within a big cooperate team as well as working independently. I am also a very friendly person that can get along well with other colleagues. Actively discuss Technical/business solutions with other teammates, shareholders and customers. I am also an combat veteran and proud of what i have done. Please view my previous projects at www.boostshore.com, Github account at www.github.com/cy19890513
                 </li>
         </div>
       </article>

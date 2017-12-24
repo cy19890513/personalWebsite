@@ -129,6 +129,7 @@ line-height: 20px;
 a.button { color:auto; }
 .noUnderLine {  text-decoration: none; }
 
+
 @media only screen and (max-width:480px) { /* Smartphone */
   .header {
     margin-bottom:0;
