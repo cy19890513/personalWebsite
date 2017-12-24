@@ -1,0 +1,2 @@
+[20-Aug-2017 11:00:52 America/Denver] PHP Warning:  include(): Failed opening 'index_files/header.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/boostsho/public_html/index_files/index.php on line 16
+[21-Aug-2017 10:17:50 America/Denver] PHP Warning:  include(): Failed opening 'index_files/header.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/boostsho/public_html/index_files/index.php on line 16
