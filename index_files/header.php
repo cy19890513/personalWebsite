@@ -9,7 +9,7 @@
          
           <li><a class="noUnderLine" href="http://www.boostshore.com/index.php#projects">Projects</a></li>
           <li><a class="noUnderLine" href="http://www.boostshore.com/index.php#awards">Awards</a></li>
-          <li><a class="noUnderLine" href="./index_files/resume.pdf">Resume</a></li>
+          <li><a class="noUnderLine" href="http://www.boostshore.com/index_files/resume.pdf">Resume</a></li>
           <li><a class="noUnderLine" href="http://www.boostshore.com/index.php">Contact</a></li>
         
         </ul>
