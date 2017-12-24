@@ -66,9 +66,9 @@
 	    <p/>
 	    <li>Email is a good way to contact me. I read my email daily.</li></ul><p></p>
            <p></p><h3>Summary:</h3><ul>
-		<li id="summaryPar">
+		<p id="summaryPar">
                 I am an experienced programmer with a strong full stack knowledge. I have worked on the website has 2M visits and Rank 7600 in U.S. My programming language stack include Java, Python, JavaScript, HTML, CSS, IOS, SAP, Android, C/C++, PHP, OOD, Swift and MYSQL. Operating system like linux, unix, FreeBSD, AWS, windows, mac. My experience include working within a big cooperate team as well as working independently. I am also a very friendly person that can get along well with other colleagues. Actively discuss Technical/business solutions with other teammates, shareholders and customers. I am also an combat veteran and proud of what i have done. Please view my previous projects at www.boostshore.com, Github account at www.github.com/cy19890513
-                </li>
+        </p>
         </div>
       </article>
 
@@ -82,28 +82,28 @@
 				<img src="./index_files/GXPColor.PNG" width="240" height="240" align="center"><center>GXP Color Phone</center></a></li>
 			-->
 			<li><a class="project-image" href="https://codepen.io/cy19890513/pen/rzNMmg" title="reactjs board game" alt="reactjs board game">
-				<img src="./index_files/boardgame.PNG" width="240" height="240" align="center"><center>Reactjs board game</center></a></li>
+				<img src="./index_files/boardgame.PNG" width="240" height="240" align="center"><center class="litext">Reactjs board game</center></a></li>
 			<li><a class="project-image" href="http://888consulting.strikingly.com/" title="888 Consulting" alt="888consulting.strikingly.com">
-				<img src="./index_files/888Consulting.PNG" width="240" height="240" align="center"><center>Consulting Company</center></a></li>
+				<img src="./index_files/888Consulting.PNG" width="240" height="240" align="center"><center class="litext">Consulting Company</center></a></li>
 			<li><a class="project-image" href="https://sjpl-meal-tally.herokuapp.com/" title="Public Library Meal Tally" alt="sjpl-meal-tally.herokuapp.com">
-				<img src="./index_files/mealTally.PNG" width="240" height="240" align="center"><center>Public Library Meal Tally</center></a></li>
+				<img src="./index_files/mealTally.PNG" width="240" height="240" align="center"><center class="litext">Public Library Meal Tally</center></a></li>
 
 			<li><a class="project-image" href="http://www.tivo.com/" title="TiVo web" alt="www.tivo.com">
-				<img src="./index_files/tivo_logo.jpg" width="240" height="240" align="center"><center>TiVo Website</center></a></li>
+				<img src="./index_files/tivo_logo.jpg" width="240" height="240" align="center"><center class="litext">TiVo Website</center></a></li>
 
 			<li><a class="project-image" href="http://www.boostshore.com/haiwaixindai/" title="wholesale app" alt="www.iwholesaleapp.com">
-				<img src="./index_files/oversea_logo.png" width="240" height="240" align="center"><center>Overseas Credit App Demo</center></a></li>
+				<img src="./index_files/oversea_logo.png" width="240" height="240" align="center"><center class="litext">Overseas Credit App Demo</center></a></li>
 			
 			
 			<li><a class="project-image" href="https://itunes.apple.com/us/app/vigo-your-personal-energy/id1023648563?mt=8" title="wholesale app" alt="itunes.apple.com/us/app/id912854241?mt=8">
-				<img src="./index_files/vigo.png" width="240" height="240" align="center"><center>VIGO IOS Project</center></a></li>
+				<img src="./index_files/vigo.png" width="240" height="240" align="center"><center class="litext">VIGO IOS Project</center></a></li>
 
 			<!--
                         <li><a class="project-image" href="https://play.google.com/store/apps/details?id=us.tomiimassage.www" title="Android project" alt="Boostshore.com">
 				<img src="./index_files/android.PNG" width="240" height="240" align="center"><center>Android Project</center></a></li>
                         -->
 			<li><a class="project-image" href="https://play.google.com/store/apps/details?id=com.vigo.alertness" title="Android project" alt="Boostshore.com">
-				<img src="./index_files/vigo.png" width="240" height="240" align="center"><center>Android Project</center></a></li>
+				<img src="./index_files/vigo.png" width="240" height="240" align="center"><center class="litext">Android Project</center></a></li>
 			<!--
 			<li><a class="project-image" href="http://www.iwholesaleapp.com" title="wholesale app" alt="www.iwholesaleapp.com">
 			
@@ -122,7 +122,7 @@
 				<img src="./index_files/bestfit.png" width="240" height="240" align="center"><center>Magento Project</center></a></li>	
 			-->
 			<li><a class="project-image" href="./index_files/TravelingSalesPerson.php" title="Website project" alt="Bullishshore.com">
-				<img src="./index_files/travelingSalesPerson.JPG" width="240" height="240" align="center"><center>C# Traveling Sales Project</center></a></li>	
+				<img src="./index_files/travelingSalesPerson.JPG" width="240" height="240" align="center class="litext""><center>C# Traveling Sales Project</center></a></li>	
 			
 			<!-- This is iboostcompany.com. ECommerce website
 			<li><a class="project-image" href="http://iboostcompany.com" title="Website project" alt="Bullishshore.com">
@@ -135,13 +135,13 @@
 
 			
 			<li><a class="project-image" href="./index_files/RoboticCompetition.php" title="Robotic project" alt="Bullishshore.com">
-				<img src="./index_files/RoboticCompetition/1.PNG" width="240" height="240" align="center"><center>Robotic Project</center></a></li>
+				<img src="./index_files/RoboticCompetition/1.PNG" width="240" height="240" align="center"><center class="litext">Robotic Project</center></a></li>
 			
 			<li><a class="project-image" href="./index_files/phpProjects/phpProject.php" title="Php project" alt="Bullishshore.com">
-				<img src="./index_files/phpProjects/step6.PNG" width="240" height="240" align="center"><center>Php Project</center></a></li>	
+				<img src="./index_files/phpProjects/step6.PNG" width="240" height="240" align="center"><center class="litext">Php Project</center></a></li>	
 			
 			<li><a class="project-image" href="./index_files/StabilityLab.php" title="Javascript project" alt="Bullishshore.com">
-				<img src="./index_files/javascript.PNG" width="240" height="240" align="center"><center>JavaScript Project</center></a></li>	
+				<img src="./index_files/javascript.PNG" width="240" height="240" align="center"><center class="litext">JavaScript Project</center></a></li>	
 			<!--
 			<li><a class="project-image" href="./index_files/javaProjects/proj8_2.php" title="Website project" alt="Bullishshore.com">
 				<img src="./index_files/javaParentsGame.PNG" width="240" height="240" align="center"><center>Java Project</center></a></li>	
@@ -168,13 +168,13 @@
 		<nav class="projects">	
 			<ul>
                         <li><a class="project-image" href="index_files/ACMcompetition2013.php" title="Local ACM Competition" alt="Local ACM Competition">
-				<img src="./index_files/ACMcompetition2013.jpg" width="240" height="240"align="center"  ><center>Local ACM Competition 2nd Place</center></a></li>
+				<img src="./index_files/ACMcompetition2013.jpg" width="240" height="240"align="center"  ><center class="litext">Local ACM Competition 2nd Place</center></a></li>
 
 			<li><a class="project-image" href="index_files/2012STomas.php" title="2012 S Tomas Parker award" alt="S tomas Parker award">
-				<img src="./index_files/SThomasParkerCompetitionAwardsMaxGoering_YangChen.jpg" width="240" height="240"align="center" ><center>S Tomas Parker Competition 1st Place 2012</center></a></li>
+				<img src="./index_files/SThomasParkerCompetitionAwardsMaxGoering_YangChen.jpg" width="240" height="240"align="center" ><center class="litext">S Tomas Parker Competition 1st Place 2012</center></a></li>
 			
 			<li><a class="project-image" href="index_files/2013STomas.php" title="2012 S Tomas Parker award" alt="S tomas Parker award">
-				<img src="./index_files/STP-YChenIMG_3656.jpg" width="180" height="240" style="margin-left:30px;margin-right:30px;"align="center" ><center>S Tomas Parker Competition 1st Place 2013</center></a></li>
+				<img src="./index_files/STP-YChenIMG_3656.jpg" width="180" height="240" style="margin-left:30px;margin-right:30px;"align="center" ><center class="litext">S Tomas Parker Competition 1st Place 2013</center></a></li>
 
 			
 			
