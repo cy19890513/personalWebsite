@@ -19,28 +19,28 @@
                <li><a href="https://www.youtube.com/watch?v=cqKP7Rrz2-Y">2012 Competition</a></li>
                <li><a href="http://www.k-state.edu/media/newsreleases/jul13/robotics73013.html">2013 KSU News</a></li>
                </ul>
-		<nav class="projects">	<center>
+		<nav class="projectHoz">	<center>
 			<ul>
 			<li>
-				<img src="./RoboticCompetition/1.PNG" width="800" height="600"></li>
+				<img src="./RoboticCompetition/1.PNG" width="640" height="480"></li>
 			<li>
-				<img src="./RoboticCompetition/2.PNG" width="800" height="600"></li>
+				<img src="./RoboticCompetition/2.PNG" width="640" height="480"></li>
 			<li>
-				<img src="./RoboticCompetition/3.PNG" width="800" height="600"></li>	
+				<img src="./RoboticCompetition/3.PNG" width="640" height="480"></li>	
 			<li>
-				<img src="./RoboticCompetition/4.PNG" width="800" height="600"></li>	
+				<img src="./RoboticCompetition/4.PNG" width="640" height="480"></li>	
 			<li>
-				<img src="./RoboticCompetition/5.PNG" width="800" height="600"></li>	
+				<img src="./RoboticCompetition/5.PNG" width="640" height="480"></li>	
 			<li>
-				<img src="./RoboticCompetition/6.PNG" width="800" height="600"></li>	
+				<img src="./RoboticCompetition/6.PNG" width="640" height="480"></li>	
 			<li>
-				<img src="./RoboticCompetition/7.PNG" width="800" height="600"></li>	
+				<img src="./RoboticCompetition/7.PNG" width="640" height="480"></li>	
 			<li>
-				<img src="./RoboticCompetition/8.PNG" width="800" height="600"></li>
+				<img src="./RoboticCompetition/8.PNG" width="640" height="480"></li>
             <li>
-				<img src="./RoboticCompetition/9.PNG" width="800" height="600"></li>
+				<img src="./RoboticCompetition/9.PNG" width="640" height="480"></li>
             <li>
-				<img src="./RoboticCompetition/10.PNG" width="800" height="600"></li>				
+				<img src="./RoboticCompetition/10.PNG" width="640" height="480"></li>				
 			</ul></center>
 		</nav>
         </div>

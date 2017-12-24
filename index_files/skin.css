@@ -181,6 +181,8 @@ ul li, ol li,ul div {
 .copyright {
   width:49%;
   float:left;
+  vertical-align: middle;
+  margin-left: 5px;
 }
 
 .copyright a,
@@ -392,10 +394,13 @@ a.button:active,
 }
 .projects li {
   display:inline-block;
-  margin:0 0 8px 7px;
+  margin:0 7px 8px 7px;
   width: 30%;
   text-align: center;/*YC 2017-06-17*/
   vertical-align: top;
+}
+.projectHoz li{
+  margin:0 20px 7px;
 }
 
 @media only screen and (max-width:768px) { /* Tablet custom styles */
