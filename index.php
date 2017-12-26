@@ -81,28 +81,28 @@
 			<li><a class="project-image" href="https://www.youtube.com/watch?v=_9rwk3J1q8k" title="GXP Color Phone app" alt="www.iwholesaleapp.com">
 				<img src="./index_files/GXPColor.PNG" width="240" height="240" align="center"><center>GXP Color Phone</center></a></li>
 			-->
-			<li><a class="project-image" href="https://codepen.io/cy19890513/pen/rzNMmg" title="reactjs board game" alt="reactjs board game">
+			<li><a class="project-image" href="https://codepen.io/cy19890513/pen/rzNMmg" title="reactjs board game" alt="reactjs board game" target="_blank"> 
 				<img src="./index_files/boardgame.PNG" width="240" height="240" align="center"><center class="litext">Reactjs board game</center></a></li>
-			<li><a class="project-image" href="http://888consulting.strikingly.com/" title="888 Consulting" alt="888consulting.strikingly.com">
+			<li><a class="project-image" href="http://888consulting.strikingly.com/" title="888 Consulting" alt="888consulting.strikingly.com" target="_blank">
 				<img src="./index_files/888Consulting.PNG" width="240" height="240" align="center"><center class="litext">Consulting Company</center></a></li>
-			<li><a class="project-image" href="https://sjpl-meal-tally.herokuapp.com/" title="Public Library Meal Tally" alt="sjpl-meal-tally.herokuapp.com">
+			<li><a class="project-image" href="https://sjpl-meal-tally.herokuapp.com/" title="Public Library Meal Tally" alt="sjpl-meal-tally.herokuapp.com" target="_blank">
 				<img src="./index_files/mealTally.PNG" width="240" height="240" align="center"><center class="litext">Public Library Meal Tally</center></a></li>
 
-			<li><a class="project-image" href="http://www.tivo.com/" title="TiVo web" alt="www.tivo.com">
+			<li><a class="project-image" href="http://www.tivo.com/" title="TiVo web" alt="www.tivo.com" target="_blank">
 				<img src="./index_files/tivo_logo.jpg" width="240" height="240" align="center"><center class="litext">TiVo Website</center></a></li>
 
-			<li><a class="project-image" href="http://www.boostshore.com/haiwaixindai/" title="wholesale app" alt="www.iwholesaleapp.com">
+			<li><a class="project-image" href="http://www.boostshore.com/haiwaixindai/" title="wholesale app" alt="www.iwholesaleapp.com" target="_blank">
 				<img src="./index_files/oversea_logo.png" width="240" height="240" align="center"><center class="litext">Overseas Credit App Demo</center></a></li>
 			
 			
-			<li><a class="project-image" href="https://itunes.apple.com/us/app/vigo-your-personal-energy/id1023648563?mt=8" title="wholesale app" alt="itunes.apple.com/us/app/id912854241?mt=8">
+			<li><a class="project-image" href="https://itunes.apple.com/us/app/vigo-your-personal-energy/id1023648563?mt=8" title="wholesale app" alt="itunes.apple.com/us/app/id912854241?mt=8" target="_blank">
 				<img src="./index_files/vigo.png" width="240" height="240" align="center"><center class="litext">VIGO IOS Project</center></a></li>
 
 			<!--
                         <li><a class="project-image" href="https://play.google.com/store/apps/details?id=us.tomiimassage.www" title="Android project" alt="Boostshore.com">
 				<img src="./index_files/android.PNG" width="240" height="240" align="center"><center>Android Project</center></a></li>
                         -->
-			<li><a class="project-image" href="https://play.google.com/store/apps/details?id=com.vigo.alertness" title="Android project" alt="Boostshore.com">
+			<li><a class="project-image" href="https://play.google.com/store/apps/details?id=com.vigo.alertness" title="Android project" alt="Boostshore.com" target="_blank">
 				<img src="./index_files/vigo.png" width="240" height="240" align="center"><center class="litext">Android Project</center></a></li>
 			<!--
 			<li><a class="project-image" href="http://www.iwholesaleapp.com" title="wholesale app" alt="www.iwholesaleapp.com">
@@ -121,7 +121,7 @@
 			<li><a class="project-image" href="http://bestfit2000.com" title="Website project" alt="bestfit2000.com">
 				<img src="./index_files/bestfit.png" width="240" height="240" align="center"><center>Magento Project</center></a></li>	
 			-->
-			<li><a class="project-image" href="./index_files/TravelingSalesPerson.php" title="Website project" alt="Bullishshore.com">
+			<li><a class="project-image" href="./index_files/TravelingSalesPerson.php" title="Website project" alt="Bullishshore.com" target="_blank">
 				<img src="./index_files/travelingSalesPerson.JPG" width="240" height="240" align="center class="litext""><center>C# Traveling Sales Project</center></a></li>	
 			
 			<!-- This is iboostcompany.com. ECommerce website
@@ -134,34 +134,25 @@
 			-->
 
 			
-			<li><a class="project-image" href="./index_files/RoboticCompetition.php" title="Robotic project" alt="Bullishshore.com">
+			<li><a class="project-image" href="./index_files/RoboticCompetition.php" title="Robotic project" alt="Bullishshore.com" target="_blank">
 				<img src="./index_files/RoboticCompetition/1.PNG" width="240" height="240" align="center"><center class="litext">Robotic Project</center></a></li>
 			
-			<li><a class="project-image" href="./index_files/phpProjects/phpProject.php" title="Php project" alt="Bullishshore.com">
+			<li><a class="project-image" href="./index_files/phpProjects/phpProject.php" title="Php project" alt="Bullishshore.com" target="_blank">
 				<img src="./index_files/phpProjects/step6.PNG" width="240" height="240" align="center"><center class="litext">Php Project</center></a></li>	
 			
-			<li><a class="project-image" href="./index_files/StabilityLab.php" title="Javascript project" alt="Bullishshore.com">
+			<li><a class="project-image" href="./index_files/StabilityLab.php" title="Javascript project" alt="Bullishshore.com" target="_blank">
 				<img src="./index_files/javascript.PNG" width="240" height="240" align="center"><center class="litext">JavaScript Project</center></a></li>	
 			<!--
 			<li><a class="project-image" href="./index_files/javaProjects/proj8_2.php" title="Website project" alt="Bullishshore.com">
 				<img src="./index_files/javaParentsGame.PNG" width="240" height="240" align="center"><center>Java Project</center></a></li>	
             -->        	
 			
-			
-			
-			
-			
 			</ul>
 		</nav>
         </div>
-		
-		
-           
-          
 		 
       </article>
 		
-	  
 	   <article class="hero clearfix">
 	<div class="col_100">
 	  <h2><a id="awards"></a>Awards</h2>
@@ -175,7 +166,7 @@
 			
 			<li><a class="project-image" href="index_files/2013STomas.php" title="2012 S Tomas Parker award" alt="S tomas Parker award">
 				<img src="./index_files/STP-YChenIMG_3656.jpg" width="180" height="240" style="margin:auto;"align="center" ><center class="litext">S Tomas Parker Competition 1st Place 2013</center></a></li>
-				
+
 			</ul>
 		</nav>
         </div>
