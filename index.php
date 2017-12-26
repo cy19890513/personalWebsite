@@ -26,7 +26,7 @@
 <body>
   <?php include 'index_files/header.php';?>
   
-    <div class="info">
+    <div class="info" id="top">
       <article class="hero clearfix">
         <div class="col_100">
 		<!--

@@ -5,12 +5,12 @@
 
       <nav class="menu_main">
         <ul>
-          <li><a class="noUnderLine" href="http://www.boostshore.com/index.php">Homepage</a></li>
+          <li><a class="noUnderLine" href="#top">Homepage</a></li>
          
-          <li><a class="noUnderLine" href="http://www.boostshore.com/index.php#projects">Projects</a></li>
-          <li><a class="noUnderLine" href="http://www.boostshore.com/index.php#awards">Awards</a></li>
-          <li><a class="noUnderLine" href="http://www.boostshore.com/index_files/resume.pdf">Resume</a></li>
-          <li><a class="noUnderLine" href="http://www.boostshore.com/index.php">Contact</a></li>
+          <li><a class="noUnderLine" href="#projects">Projects</a></li>
+          <li><a class="noUnderLine" href="#awards">Awards</a></li>
+          <li><a class="noUnderLine" href="http://www.boostshore.com/index_files/resume.pdf" target="_blank">Resume</a></li>
+          <li><a class="noUnderLine" href="#top">Contact</a></li>
         
         </ul>
       </nav>

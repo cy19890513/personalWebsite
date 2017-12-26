@@ -5,9 +5,9 @@ body {
   background:#676D8F;
 }
 
-a { color:#004dd9; }
+a { color:#004dd9;  outline: 0;}
 a:hover { color:#ea0000; }
-a:visited { color:#551a8b; }
+a:visited { color:#551a8b;  outline: 0;}
 
 ul li, ol li,ul div {
   padding:0 0 0.2em 0;
@@ -63,7 +63,7 @@ ul li, ol li,ul div {
 
 .menu_main a,
 .menu_main a:visited {
-  color:#fff;
+  color:#fff; outline: 0;
 }
 .menu_main a:hover,
 .menu_main a:visited:hover {
@@ -114,7 +114,7 @@ ul li, ol li,ul div {
 
 
 .hero a ,.hero a:visited {
-  color:#fff;  text-decoration:none;
+  color:#fff;  text-decoration:none; outline: 0;
 }
 .hero a:hover,
 .hero a:visited:hover {
