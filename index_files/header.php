@@ -15,4 +15,4 @@
         </ul>
       </nav>
 	</header>
-<script type="text/javascript" async="" src="./index_files/ga.js"></script><script src="./index_files/analytics.js"></script>
+<script type="text/javascript" async="" src="http://www.boostshore.com/index_files/ga.js"></script><script src="http://www.boostshore.com/index_files/analytics.js"></script>
