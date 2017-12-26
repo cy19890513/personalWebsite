@@ -158,13 +158,13 @@
 	  <h2><a id="awards"></a>Awards</h2>
 		<nav class="projects">	
 			<ul>
-                        <li><a class="project-image" href="index_files/ACMcompetition2013.php" title="Local ACM Competition" alt="Local ACM Competition">
+                        <li><a class="project-image" href="index_files/ACMcompetition2013.php" title="Local ACM Competition" alt="Local ACM Competition"  target="_blank">
 				<img src="./index_files/ACMcompetition2013.jpg" width="240" height="240"align="center"  ><center class="litext">Local ACM Competition 2nd Place</center></a></li>
 
-			<li><a class="project-image" href="index_files/2012STomas.php" title="2012 S Tomas Parker award" alt="S tomas Parker award">
+			<li><a class="project-image" href="index_files/2012STomas.php" title="2012 S Tomas Parker award" alt="S tomas Parker award"  target="_blank">
 				<img src="./index_files/SThomasParkerCompetitionAwardsMaxGoering_YangChen.jpg" width="240" height="240"align="center" ><center class="litext">S Tomas Parker Competition 1st Place 2012</center></a></li>
 			
-			<li><a class="project-image" href="index_files/2013STomas.php" title="2012 S Tomas Parker award" alt="S tomas Parker award">
+			<li><a class="project-image" href="index_files/2013STomas.php" title="2012 S Tomas Parker award" alt="S tomas Parker award"  target="_blank">
 				<img src="./index_files/STP-YChenIMG_3656.jpg" width="180" height="240" style="margin:auto;"align="center" ><center class="litext">S Tomas Parker Competition 1st Place 2013</center></a></li>
 
 			</ul>
