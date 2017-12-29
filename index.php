@@ -7,6 +7,8 @@
   <link href="./index_files/favicon.ico" rel="shortcut icon">
   <link rel="stylesheet" href="./index_files/style.css">
   <link rel="stylesheet" href="./index_files/flexslider.css" type="text/css" media="screen" />
+  <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+  <script src="./index_files/myJS.js"></script>
   <title>Yang Chen</title>
   <meta name="keywords" content="Yang Chen _2166">
   <meta name="description" content="Yang Chen#39;s Homepage on K-State CIS">
@@ -23,7 +25,7 @@
   </script>
   </head>
 
-<body>
+<body onload="textScript();">
   <?php include 'index_files/header.php';?>
   
     <div class="info" id="top">
@@ -54,19 +56,19 @@
 			</div>
 		</section>
 		  
-		  <h1>Welcome!</h1>
-	  <p></p><h3>Contact Information:</h3>
+		  <h1 class="spText">Welcome!</h1>
+	  <p></p><h3 class="spText">Contact Information:</h3>
 
 		<ul>
-		<li><strong>Address:</strong> 288 S Bernardo ave, Sunnyvale 94086</li>
-		<li><strong>Email:</strong> <em>yang.chen.sv@</em><var>gmail.com</var></li>		
-		<li><strong>Office Phone:</strong> (415) 205-8938</li>
-		<li><strong>Home Phone:</strong> (415) 205-8938</li>
+		<li class="spText"><strong class="spText">Address:</strong> 288 S Bernardo ave, Sunnyvale 94086</li>
+		<li class="spText"><strong class="spText">Email:</strong> <em class="spText">yang.chen.sv@</em><var class="spText">gmail.com</var></li>		
+		<li class="spText"><strong class="spText">Office Phone:</strong> (415) 205-8938</li>
+		<li class="spText"><strong class="spText">Home Phone:</strong> (415) 205-8938</li>
 		
 	    <p/>
-	    <li>Email is a good way to contact me. I read my email daily.</li></ul><p></p>
-           <p></p><h3>Summary:</h3><ul>
-		<p id="summaryPar">
+	    <li class="spText">Email is a good way to contact me. I read my email daily.</li></ul><p></p>
+           <p></p><h3 class="spText">Summary:</h3><ul>
+		<p id="summaryPar" class="spText">
                 I am an experienced programmer with a strong full stack knowledge. I have worked on the website has 2M visits and Rank 7600 in U.S. My programming language stack include Java, Python, JavaScript, HTML, CSS, IOS, SAP, Android, C/C++, PHP, OOD, Swift and MYSQL. Operating system like linux, unix, FreeBSD, AWS, windows, mac. My experience include working within a big cooperate team as well as working independently. I am also a very friendly person that can get along well with other colleagues. Actively discuss Technical/business solutions with other teammates, shareholders and customers. I am also an combat veteran and proud of what i have done. Please view my previous projects at www.boostshore.com, Github account at www.github.com/cy19890513
         </p>
         </div>
@@ -74,7 +76,7 @@
 
       <article class="hero clearfix">
 	<div class="col_100">
-	  <h2><a id="projects"></a>Projects</h2>
+	 <a id="projects"></a><h2 class="spText">Projects</h2>
 		<nav class="projects">	
 			<ul>
 			<!--
@@ -82,28 +84,28 @@
 				<img src="./index_files/GXPColor.PNG" width="240" height="240" align="center"><center>GXP Color Phone</center></a></li>
 			-->
 			<li><a class="project-image" href="https://codepen.io/cy19890513/pen/rzNMmg" title="reactjs board game" alt="reactjs board game" target="_blank"> 
-				<img src="./index_files/boardgame.PNG" width="240" height="240" align="center"><center class="litext">Reactjs board game</center></a></li>
+				<img src="./index_files/boardgame.PNG" width="240" height="240" align="center"><center class="litext spText">Reactjs board game</center></a></li>
 			<li><a class="project-image" href="http://888consulting.strikingly.com/" title="888 Consulting" alt="888consulting.strikingly.com" target="_blank">
-				<img src="./index_files/888Consulting.PNG" width="240" height="240" align="center"><center class="litext">Consulting Company</center></a></li>
+				<img src="./index_files/888Consulting.PNG" width="240" height="240" align="center"><center class="litext spText">Consulting Company</center></a></li>
 			<li><a class="project-image" href="https://sjpl-meal-tally.herokuapp.com/" title="Public Library Meal Tally" alt="sjpl-meal-tally.herokuapp.com" target="_blank">
-				<img src="./index_files/mealTally.PNG" width="240" height="240" align="center"><center class="litext">Public Library Meal Tally</center></a></li>
+				<img src="./index_files/mealTally.PNG" width="240" height="240" align="center"><center class="litext spText">Public Library Meal Tally</center></a></li>
 
 			<li><a class="project-image" href="http://www.tivo.com/" title="TiVo web" alt="www.tivo.com" target="_blank">
-				<img src="./index_files/tivo_logo.jpg" width="240" height="240" align="center"><center class="litext">TiVo Website</center></a></li>
+				<img src="./index_files/tivo_logo.jpg" width="240" height="240" align="center"><center class="litext spText">TiVo Website</center></a></li>
 
 			<li><a class="project-image" href="http://www.boostshore.com/haiwaixindai/" title="wholesale app" alt="www.iwholesaleapp.com" target="_blank">
-				<img src="./index_files/oversea_logo.png" width="240" height="240" align="center"><center class="litext">Overseas Credit App Demo</center></a></li>
+				<img src="./index_files/oversea_logo.png" width="240" height="240" align="center"><center class="litext spText">Overseas Credit App Demo</center></a></li>
 			
 			
 			<li><a class="project-image" href="https://itunes.apple.com/us/app/vigo-your-personal-energy/id1023648563?mt=8" title="wholesale app" alt="itunes.apple.com/us/app/id912854241?mt=8" target="_blank">
-				<img src="./index_files/vigo.png" width="240" height="240" align="center"><center class="litext">VIGO IOS Project</center></a></li>
+				<img src="./index_files/vigo.png" width="240" height="240" align="center"><center class="litext spText">VIGO IOS Project</center></a></li>
 
 			<!--
                         <li><a class="project-image" href="https://play.google.com/store/apps/details?id=us.tomiimassage.www" title="Android project" alt="Boostshore.com">
 				<img src="./index_files/android.PNG" width="240" height="240" align="center"><center>Android Project</center></a></li>
                         -->
 			<li><a class="project-image" href="https://play.google.com/store/apps/details?id=com.vigo.alertness" title="Android project" alt="Boostshore.com" target="_blank">
-				<img src="./index_files/vigo.png" width="240" height="240" align="center"><center class="litext">Android Project</center></a></li>
+				<img src="./index_files/vigo.png" width="240" height="240" align="center"><center class="litext spText">Android Project</center></a></li>
 			<!--
 			<li><a class="project-image" href="http://www.iwholesaleapp.com" title="wholesale app" alt="www.iwholesaleapp.com">
 			
@@ -122,7 +124,7 @@
 				<img src="./index_files/bestfit.png" width="240" height="240" align="center"><center>Magento Project</center></a></li>	
 			-->
 			<li><a class="project-image" href="./index_files/TravelingSalesPerson.php" title="Website project" alt="Bullishshore.com" target="_blank">
-				<img src="./index_files/travelingSalesPerson.JPG" width="240" height="240" align="center class="litext""><center>C# Traveling Sales Project</center></a></li>	
+				<img src="./index_files/travelingSalesPerson.JPG" width="240" height="240" align="center" ><center class="litext spText">C# Traveling Sales Project</center></a></li>	
 			
 			<!-- This is iboostcompany.com. ECommerce website
 			<li><a class="project-image" href="http://iboostcompany.com" title="Website project" alt="Bullishshore.com">
@@ -135,13 +137,13 @@
 
 			
 			<li><a class="project-image" href="./index_files/RoboticCompetition.php" title="Robotic project" alt="Bullishshore.com" target="_blank">
-				<img src="./index_files/RoboticCompetition/1.PNG" width="240" height="240" align="center"><center class="litext">Robotic Project</center></a></li>
+				<img src="./index_files/RoboticCompetition/1.PNG" width="240" height="240" align="center"><center class="litext spText">Robotic Project</center></a></li>
 			
 			<li><a class="project-image" href="./index_files/phpProjects/phpProject.php" title="Php project" alt="Bullishshore.com" target="_blank">
-				<img src="./index_files/phpProjects/step6.PNG" width="240" height="240" align="center"><center class="litext">Php Project</center></a></li>	
+				<img src="./index_files/phpProjects/step6.PNG" width="240" height="240" align="center"><center class="litext spText">Php Project</center></a></li>	
 			
 			<li><a class="project-image" href="./index_files/StabilityLab.php" title="Javascript project" alt="Bullishshore.com" target="_blank">
-				<img src="./index_files/javascript.PNG" width="240" height="240" align="center"><center class="litext">JavaScript Project</center></a></li>	
+				<img src="./index_files/javascript.PNG" width="240" height="240" align="center"><center class="litext spText">JavaScript Project</center></a></li>	
 			<!--
 			<li><a class="project-image" href="./index_files/javaProjects/proj8_2.php" title="Website project" alt="Bullishshore.com">
 				<img src="./index_files/javaParentsGame.PNG" width="240" height="240" align="center"><center>Java Project</center></a></li>	
@@ -155,17 +157,17 @@
 		
 	   <article class="hero clearfix">
 	<div class="col_100">
-	  <h2><a id="awards"></a>Awards</h2>
+	  <a id="awards"></a><h2 class="spText">Awards</h2>
 		<nav class="projects">	
 			<ul>
                         <li><a class="project-image" href="index_files/ACMcompetition2013.php" title="Local ACM Competition" alt="Local ACM Competition"  target="_blank">
-				<img src="./index_files/ACMcompetition2013.jpg" width="240" height="240"align="center"  ><center class="litext">Local ACM Competition 2nd Place</center></a></li>
+				<img src="./index_files/ACMcompetition2013.jpg" width="240" height="240"align="center"  ><center class="litext spText">Local ACM Competition 2nd Place</center></a></li>
 
 			<li><a class="project-image" href="index_files/2012STomas.php" title="2012 S Tomas Parker award" alt="S tomas Parker award"  target="_blank">
-				<img src="./index_files/SThomasParkerCompetitionAwardsMaxGoering_YangChen.jpg" width="240" height="240"align="center" ><center class="litext">S Tomas Parker Competition 1st Place 2012</center></a></li>
+				<img src="./index_files/SThomasParkerCompetitionAwardsMaxGoering_YangChen.jpg" width="240" height="240"align="center" ><center class="litext spText">S Tomas Parker Competition 1st Place 2012</center></a></li>
 			
 			<li><a class="project-image" href="index_files/2013STomas.php" title="2012 S Tomas Parker award" alt="S tomas Parker award"  target="_blank">
-				<img src="./index_files/STP-YChenIMG_3656.jpg" width="180" height="240" style="margin:auto;"align="center" ><center class="litext">S Tomas Parker Competition 1st Place 2013</center></a></li>
+				<img src="./index_files/STP-YChenIMG_3656.jpg" width="180" height="240" style="margin:auto;"align="center" ><center class="litext spText">S Tomas Parker Competition 1st Place 2013</center></a></li>
 
 			</ul>
 		</nav>
