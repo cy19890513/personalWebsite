@@ -6,18 +6,21 @@
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 		<link href="http://www.boostshore.com/index_files/favicon.ico" rel="shortcut icon">
 		<link rel="stylesheet" href="style.css">
+		<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+  		<script src="http://www.boostshore.com/index_files/myJS.js"></script>
 		<meta name="keywords" content="Yang Chen _2166">
 		<meta name="description" content="Yang Chen#39;s Homepage on K-State CIS">
     </head>
-    <body>
+    <body onload="textScript();">
 	<?php include 'header.php';?>
 	<article class="hero clearfix">
        <div class="col_100">
-	  <h2><a id="projects"></a>Past Vedios:</h2>
-               <ul class="projects"><li><a href="https://www.youtube.com/watch?v=xjVeEYCpPyU">2010 Competition</a></li>
-               <li><a href="https://www.youtube.com/watch?v=VRdz1ldlZnY">2011 Competition</a></li>
-               <li><a href="https://www.youtube.com/watch?v=cqKP7Rrz2-Y">2012 Competition</a></li>
-               <li><a href="http://www.k-state.edu/media/newsreleases/jul13/robotics73013.html">2013 KSU News</a></li>
+	  <a id="projects"></a>
+	  <h2 class="spText">Past Vedios:</h2>
+               <ul class="projects"><li><a href="https://www.youtube.com/watch?v=xjVeEYCpPyU" class="spText">2010 Competition</a></li>
+               <li><a href="https://www.youtube.com/watch?v=VRdz1ldlZnY" class="spText">2011 Competition</a></li>
+               <li><a href="https://www.youtube.com/watch?v=cqKP7Rrz2-Y" class="spText">2012 Competition</a></li>
+               <li><a href="http://www.k-state.edu/media/newsreleases/jul13/robotics73013.html" class="spText">2013 KSU News</a></li>
                </ul>
 		<nav class="projectHoz">	<center>
 			<ul>

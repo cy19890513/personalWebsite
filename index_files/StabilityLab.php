@@ -10,21 +10,23 @@
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<link href="./index_files/favicon.ico" rel="shortcut icon">
+<link href="http://www.boostshore.com/index_files/favicon.ico" rel="shortcut icon">
 <link rel="stylesheet" href="style.css">
+<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+<script src="http://www.boostshore.com/index_files/myJS.js"></script>
 <meta name="keywords" content="Yang Chen _2166">
 <meta name="description" content="Yang Chen#39;s Homepage on K-State CIS">
 
 </head>
 
-<body>
+<body onload="textScript();">
 <?php include 'header.php';?>
 
 
 <article class="article clearfix">
        <div class="col_100">
-	  <h2><a id="projects"></a>Projects</h2>
-          <h4>This is the javascript graph:</h4>
+	  <a id="projects"></a><h2 class="spText">Projects</h2>
+          <h4 class="spText">This is the javascript graph:</h4>
 		<nav class="projects">	
 <center>
 <table style="width: 400px; float: center" >
@@ -73,7 +75,7 @@
 </div>
 
 <div>
-<h4>This is The regional java graph:</h4>
+<h4 class="spText">This is The regional java graph:</h4>
 <br><center>
 <a  href="http://www.math.ksu.edu/math240/java/lab9/lab9.html" title="stability lab" alt="stability lab"><img src="java.PNG" width="900" height="600"></a>
 </center>
@@ -741,9 +743,6 @@ brd2 = JXG.JSXGraph.initBoard('graph2', {
 </script>
 
 
-<p>
-
-Copyright 2013, Yang Chen
-
+<?php include 'footer.php';?>
 </body>
 </html>

@@ -4,8 +4,10 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
-		<link href="./index_files/favicon.ico" rel="shortcut icon">
+		<link href="http://www.boostshore.com/index_files/favicon.ico" rel="shortcut icon">
 		<link rel="stylesheet" href="style.css">
+		<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
+  		<script src="http://www.boostshore.com/index_files/myJS.js"></script>
 		<meta name="keywords" content="Yang Chen _2166">
 		<meta name="description" content="Yang Chen#39;s Homepage on K-State CIS">
 		<style>
@@ -15,12 +17,13 @@
 	
 	
 	</head>
-    <body>
+    <body onload="textScript();">
 	<?php include 'header.php';?>
 	<br>
 	<article class="hero clearfix">
 	<div id="youtubeTitle">
-	<h2 ><a id="projects" ></a>Live Demo:</h2>
+	<a id="projects" ></a>
+	<h2 class="spText">Live Demo:</h2>
 	</div>
 	<div id="youtube">
 		<iframe width="607" height="315" src="//www.youtube.com/embed/Jx4Ljo-rGw8?rel=0" frameborder="0" allowfullscreen></iframe>
@@ -35,12 +38,13 @@
 		<div align="center">
 			<br>
 			<img src="rar.gif" border="0" class="vm" alt="" data-bd-imgshare-binded="1">
-			<a href="TravelingSalesPerson.exe" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid279" target="_blank">TravelingSalesPerson.exe</a></div><br>
+			<a href="TravelingSalesPerson.exe" onmouseover="showMenu({'ctrlid':this.id,'pos':'12'})" id="aid279" target="_blank" class="spText">TravelingSalesPerson.exe</a></div><br>
 	</div>
 	
       
 	   
 	   
 	</article>
+	<?php include 'footer.php';?>
     </body>
 </html>
