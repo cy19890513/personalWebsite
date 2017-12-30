@@ -8,6 +8,8 @@
 		<link rel="stylesheet" href="style.css">
 		<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
   		<script src="http://www.boostshore.com/index_files/myJS.js"></script>
+  		<script src="http://www.boostshore.com/index_files/jquery-stars.js"></script>
+  		<script src="http://www.boostshore.com/index_files/smothscrool.js"></script>
 		<meta name="keywords" content="Yang Chen _2166">
 		<meta name="description" content="Yang Chen#39;s Homepage on K-State CIS">
     </head>
