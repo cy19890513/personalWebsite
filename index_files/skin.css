@@ -3,6 +3,7 @@ body {
   font-family:arial, sans-serif;
   color:#333;
   background:#676D8F;
+  cursor: url(http://cur.cursors-4u.net/cursors/cur-11/cur1030.cur),progress;
 }
 
 a { color:#004dd9;  outline: 0;}

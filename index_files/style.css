@@ -139,7 +139,7 @@ a.button { color:auto; }
   position: relative;
   top: 0px;
   left: 0px;
-  cursor: default;
+  /*cursor: default;*/
 }
 .spText span:hover {
   text-shadow: 2px 2px 0px #583684;
