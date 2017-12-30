@@ -9,6 +9,8 @@
   <link rel="stylesheet" href="./index_files/flexslider.css" type="text/css" media="screen" />
   <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
   <script src="./index_files/myJS.js"></script>
+  <script type="text/javascript" src="./index_files/jquery-stars.js"></script>
+  <script type="text/javascript" src="./index_files/smothscrool.js"></script>
   <title>Yang Chen</title>
   <meta name="keywords" content="Yang Chen _2166">
   <meta name="description" content="Yang Chen#39;s Homepage on K-State CIS">
@@ -185,7 +187,7 @@
 
 
   <!-- jQuery -->
-  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
+  <!-- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script> -->
   <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.min.js">\x3C/script>')</script>
 
   <!-- FlexSlider -->
@@ -195,7 +197,7 @@
    // $(function(){
    //   SyntaxHighlighter.all();
    // });
-    $(window).load(function(){
+    $(window).on("load", function(e){
       $('.flexslider').flexslider({
         animation: "slide",
         start: function(slider){

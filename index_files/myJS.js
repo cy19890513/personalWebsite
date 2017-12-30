@@ -21,4 +21,29 @@
                 $(this).append(ev);
             $(this).append(text) ;
         });
-    }
+}
+
+$(document).ready(function(){
+    initAnchors();
+    initStars();
+})
+function initAnchors() {
+    new SmoothScroll({
+        anchorLinks: '.nav > li > a',
+        extraOffset: function() {
+            var totalHeight = 0;
+            jQuery('.navbar-fixed-top').each(function(){
+                totalHeight += jQuery(this).outerHeight();
+            });
+            return totalHeight;
+        },
+        activeClasses: 'link'
+    });
+}
+function initStars() {
+    $('html').jstars({
+        image_path: 'index_files/images',
+        style: 'yellow',
+        frequency: 19
+    });
+}
