@@ -212,7 +212,11 @@ a.button { color:auto; }
     width:98%;
     float:none;
   } 
-  
+  .phpProj{
+    min-height: 200px;
+    margin-bottom: 3px;
+    float: left;
+  }
   .form label {
     padding:10px 0 8px 0;
   }
