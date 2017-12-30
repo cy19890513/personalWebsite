@@ -139,6 +139,8 @@ function jstar_rand(from, to){
 	r = r * (to - from);
 	r = r + from;
 	r = Math.round(r);
+	if(r == 0)
+		r = jstar_rand(from, to);
 	return r;
 }
 

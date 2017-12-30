@@ -44,6 +44,7 @@ function initStars() {
     $('html').jstars({
         image_path: 'index_files/images',
         style: 'yellow',
-        frequency: 19
+        frequency: 19,
+        delay: 600
     });
 }
