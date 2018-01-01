@@ -1,0 +1,3 @@
+index_files/tests/lib/*
+index_files/tests/node_modules/*
+index_files/tests/spec/*
