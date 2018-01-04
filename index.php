@@ -70,8 +70,8 @@
 	    <p/>
 	    <li class="spText">Email is a good way to contact me. I read my email daily.</li></ul><p></p>
            <p></p><h3 class="spText">Summary:</h3><ul>
-		<p id="summaryPar" class="spText">
-		I am an experienced programmer with a strong full stack knowledge. I have worked on the website has 2M visits and Rank 7600 in U.S. My programming language stack include Java, Python, JavaScript, HTML, CSS, IOS, SAP, Android, C/C++, PHP, OOD, Swift and MYSQL. Operating system like linux, unix, FreeBSD, AWS, windows, mac. My experience include working within a big cooperate team as well as working independently. I am also a very friendly person that can get along well with other colleagues. Actively discuss Technical/business solutions with other teammates, shareholders and customers. I am also an combat veteran and proud of what i have done. Please view my previous projects at www.boostshore.com, Github account at www.github.com/cy19890513
+		<p id="summaryPar" ><span class="spText">
+		I am an experienced programmer with a strong full stack knowledge. I have worked on the website has 2M visits and Rank 7600 in U.S. My programming language stack include Java, Python, JavaScript, HTML, CSS, IOS, SAP, Android, C/C++, PHP, OOD, Swift and MYSQL. Operating system like linux, unix, FreeBSD, AWS, windows, mac. My experience include working within a big corporate team as well as working independently. I am also a very friendly person that can get along well with other colleagues. Actively discuss Technical/business solutions with other teammates, shareholders and customers. I am also an combat veteran and proud of what i have done. Please view my previous projects at </span><a href="http://www.boostshore.com" class="spText" >www.boostshore.com</a><span class="spText">, Github account at </span><a href="http://www.github.com/cy19890513" class="spText">www.github.com/cy19890513</a>
         </p>
         </div>
       </article>
