@@ -446,7 +446,7 @@ a.project-image {
 	/*margin-left: 10%;*//*margin-left: 20%;*/
 	/*margin-right: 10%; YC 2017-06-17*/
 	text-decoration:none;/*Adjust This Value As Needed*/
-	
+	z-index: 5;
 }
 a.project-text {
 	
