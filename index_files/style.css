@@ -139,6 +139,7 @@ a.button { color:auto; }
   position: relative;
   top: 0px;
   left: 0px;
+  z-index: 5;
   /*cursor: default;*/
 }
 .spText span:hover {
@@ -146,6 +147,7 @@ a.button { color:auto; }
   transition: 0.4s;
   top: -4px;
   left: 4px;
+  z-index: 5;
 }
 
 @media only screen and (max-width:480px) { /* Smartphone */
