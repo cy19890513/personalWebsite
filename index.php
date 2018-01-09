@@ -95,11 +95,11 @@
 			<li><a class="project-image" href="http://www.tivo.com/" title="TiVo web" alt="www.tivo.com" target="_blank">
 				<img src="./index_files/tivo_logo.jpg" width="240" height="240" align="center"><center class="litext spText">TiVo Website</center></a></li>
 
-			<li><a class="project-image" href="http://www.boostshore.com/haiwaixindai/" title="wholesale app" alt="www.iwholesaleapp.com" target="_blank">
+			<li><a class="project-image" href="http://www.boostshore.com/haiwaixindai/" title="Finance App Prototype" alt="www.iwholesaleapp.com" target="_blank">
 				<img src="./index_files/oversea_logo.png" width="240" height="240" align="center"><center class="litext spText">Overseas Credit App Demo</center></a></li>
 			
 			
-			<li><a class="project-image" href="https://itunes.apple.com/us/app/vigo-your-personal-energy/id1023648563?mt=8" title="wholesale app" alt="itunes.apple.com/us/app/id912854241?mt=8" target="_blank">
+			<li><a class="project-image" href="https://itunes.apple.com/us/app/vigo-your-personal-energy/id1023648563?mt=8" title="IOT IOS APP" alt="itunes.apple.com/us/app/id912854241?mt=8" target="_blank">
 				<img src="./index_files/vigo.png" width="240" height="240" align="center"><center class="litext spText">VIGO IOS Project</center></a></li>
 
 			<!--
@@ -125,8 +125,8 @@
 			<li><a class="project-image" href="http://bestfit2000.com" title="Website project" alt="bestfit2000.com">
 				<img src="./index_files/bestfit.png" width="240" height="240" align="center"><center>Magento Project</center></a></li>	
 			-->
-			<li><a class="project-image" href="./index_files/TravelingSalesPerson.php" title="Website project" alt="Bullishshore.com" target="_blank">
-				<img src="./index_files/travelingSalesPerson.JPG" width="240" height="240" align="center" ><center class="litext spText">C# Traveling Sales Project</center></a></li>	
+			<li><a class="project-image" href="./index_files/TravelingSalesPerson.php" title="Traveling Sales Person" alt="Bullishshore.com" target="_blank">
+				<img src="./index_files/travelingSalesPerson.JPG" width="240" height="240" align="center" ><center class="litext spText">C# / Algorithm Project</center></a></li>	
 			
 			<!-- This is iboostcompany.com. ECommerce website
 			<li><a class="project-image" href="http://iboostcompany.com" title="Website project" alt="Bullishshore.com">

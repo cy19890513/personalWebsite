@@ -6,9 +6,9 @@ body {
   cursor: url(http://cur.cursors-4u.net/cursors/cur-11/cur1030.cur),progress;
 }
 
-a { color:#004dd9;  outline: 0;}
-a:hover { color:#ea0000; }
-a:visited { color:#551a8b;  outline: 0;}
+a { color:#004dd9;  outline: 0; z-index: 5;}
+a:hover { color:#ea0000; z-index: 5;}
+a:visited { color:#551a8b;  outline: 0; z-index: 5;}
 
 ul li, ol li,ul div {
   padding:0 0 0.2em 0;
