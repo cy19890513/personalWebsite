@@ -64,8 +64,8 @@
 		<ul>
 		<li class="spText"><strong class="spText">Address:</strong> 6524 George ave, Newark CA 94560</li>
 		<li class="spText"><strong class="spText">Email:</strong> <em class="spText">yang.chen.sv@</em><var class="spText">gmail.com</var></li>		
-		<li class="spText"><strong class="spText">Office Phone:</strong> (415) 205-8938</li>
-		<li class="spText"><strong class="spText">Home Phone:</strong> (415) 205-8938</li>
+		<li class="spText"><strong class="spText">Office Phone:</strong> (510) 520-4982</li>
+		<li class="spText"><strong class="spText">Home Phone:</strong> (510) 520-4982</li>
 		
 	    <p/>
 	    <li class="spText">Email is a good way to contact me. I read my email daily.</li></ul><p></p>
