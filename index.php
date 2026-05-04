@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="./index_files/flexslider.css" type="text/css" media="screen" />
   <script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
   <script src="./index_files/myJS.js"></script>
-  <script type="text/javascript" src="./index_files/jquery-stars.js"></script>
+  <!-- <script type="text/javascript" src="./index_files/jquery-stars.js"></script> -->
   <script type="text/javascript" src="./index_files/smothscrool.js"></script>
   <title>Yang Chen</title>
   <meta name="keywords" content="Yang Chen _2166">
@@ -39,9 +39,9 @@
 		<section class="slider" width="400" height="300">
 			<div class="flexslider">
 			  <ul class="slides">
-				<li>
+				<!-- <li>
 				<img src="./index_files/slideImage1.jpg" />
-				</li>
+				</li> -->
 				<li>
 				<img src="./index_files/slideImage2.JPG" />
 				</li>
@@ -62,7 +62,7 @@
 	  <p></p><h3 class="spText">Contact Information:</h3>
 
 		<ul>
-		<li class="spText"><strong class="spText">Address:</strong> 288 S Bernardo ave, Sunnyvale 94086</li>
+		<li class="spText"><strong class="spText">Address:</strong> 6524 George ave, Newark CA 94560</li>
 		<li class="spText"><strong class="spText">Email:</strong> <em class="spText">yang.chen.sv@</em><var class="spText">gmail.com</var></li>		
 		<li class="spText"><strong class="spText">Office Phone:</strong> (415) 205-8938</li>
 		<li class="spText"><strong class="spText">Home Phone:</strong> (415) 205-8938</li>
