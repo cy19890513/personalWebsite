@@ -1,5 +1,5 @@
 <footer class="footer clearfix">
-      <p class="copyright">© Copyright 2017,YANG CHEN.</p>
+      <p class="copyright">© Copyright 2026, YANG CHEN.</p>
 
       <nav class="menu_bottom">
         <ul>
