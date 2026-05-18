@@ -63,7 +63,7 @@
 
 		<ul>
 		<li class="spText"><strong class="spText">Address:</strong> 6524 George ave, Newark CA 94560</li>
-		<li class="spText"><strong class="spText">Email:</strong> <em class="spText">yang.chen.sv@</em><var class="spText">gmail.com</var></li>		
+		<li class="spText"><strong class="spText">Email:</strong><em class="spText">&nbsp;yang.chen.sv@</em><var class="spText">gmail.com</var></li>		
 		<li class="spText"><strong class="spText">Office Phone:</strong> (510) 520-4982</li>
 		<li class="spText"><strong class="spText">Home Phone:</strong> (510) 520-4982</li>
 		
@@ -89,8 +89,9 @@
 				<img src="./index_files/boardgame.PNG" width="240" height="240" align="center"><center class="litext spText">Reactjs board game</center></a></li>
 			<li><a class="project-image" href="http://888consulting.strikingly.com/" title="888 Consulting" alt="888consulting.strikingly.com" target="_blank">
 				<img src="./index_files/888Consulting.PNG" width="240" height="240" align="center"><center class="litext spText">Consulting Company</center></a></li>
-			<li><a class="project-image" href="https://sjpl-meal-tally.herokuapp.com/" title="Public Library Meal Tally" alt="sjpl-meal-tally.herokuapp.com" target="_blank">
-				<img src="./index_files/mealTally.PNG" width="240" height="240" align="center"><center class="litext spText">Public Library Meal Tally</center></a></li>
+			<!-- meal tally
+				 <li><a class="project-image" href="https://sjpl-meal-tally.herokuapp.com/" title="Public Library Meal Tally" alt="sjpl-meal-tally.herokuapp.com" target="_blank">
+				<img src="./index_files/mealTally.PNG" width="240" height="240" align="center"><center class="litext spText">Public Library Meal Tally</center></a></li> -->
 
 			<li><a class="project-image" href="http://www.tivo.com/" title="TiVo web" alt="www.tivo.com" target="_blank">
 				<img src="./index_files/tivo_logo.jpg" width="240" height="240" align="center"><center class="litext spText">TiVo Website</center></a></li>
@@ -99,15 +100,19 @@
 				<img src="./index_files/oversea_logo.png" width="240" height="240" align="center"><center class="litext spText">Overseas Credit App Demo</center></a></li>
 			
 			
+			<!-- ios project
 			<li><a class="project-image" href="https://itunes.apple.com/us/app/vigo-your-personal-energy/id1023648563?mt=8" title="IOT IOS APP" alt="itunes.apple.com/us/app/id912854241?mt=8" target="_blank">
 				<img src="./index_files/vigo.png" width="240" height="240" align="center"><center class="litext spText">VIGO IOS Project</center></a></li>
+			-->
 
-			<!--
+			<!-- android project
                         <li><a class="project-image" href="https://play.google.com/store/apps/details?id=us.tomiimassage.www" title="Android project" alt="Boostshore.com">
 				<img src="./index_files/android.PNG" width="240" height="240" align="center"><center>Android Project</center></a></li>
                         -->
+			<!--
 			<li><a class="project-image" href="https://play.google.com/store/apps/details?id=com.vigo.alertness" title="Android project" alt="Boostshore.com" target="_blank">
 				<img src="./index_files/vigo.png" width="240" height="240" align="center"><center class="litext spText">Android Project</center></a></li>
+			-->
 			<!--
 			<li><a class="project-image" href="http://www.iwholesaleapp.com" title="wholesale app" alt="www.iwholesaleapp.com">
 			
