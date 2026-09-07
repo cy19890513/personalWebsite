@@ -71,7 +71,7 @@
 	    <li class="spText">Email is a good way to contact me. I read my email daily.</li></ul><p></p>
            <p></p><h3 class="spText">Summary:</h3><ul>
 		<p id="summaryPar" ><span class="spText">
-		I am an experienced programmer with a strong full stack knowledge. I have worked on the website has 2M visits and Rank 7600 in U.S. My programming language stack include Java, Python, JavaScript, HTML, CSS, IOS, SAP, Android, C/C++, PHP, OOD, Swift and MYSQL. Operating system like linux, unix, FreeBSD, AWS, windows, mac. My experience include working within a big corporate team as well as working independently. I am also a very friendly person that can get along well with other colleagues. Actively discuss Technical/business solutions with other teammates, shareholders and customers. I am also an combat veteran and proud of what i have done. Please view my previous projects at </span><a href="http://www.boostshore.com" class="spText" >www.boostshore.com</a><span class="spText">, Github account at </span><a href="http://www.github.com/cy19890513" class="spText">www.github.com/cy19890513</a>
+		I am an experienced programmer with a strong full stack knowledge. I have worked on the website has 2M visits and Rank 7600 in U.S. My programming language stack include Java, Python, JavaScript, HTML, CSS, IOS, SAP, Android, C/C++, PHP, OOD, Swift and MYSQL. Operating system like linux, unix, FreeBSD, AWS, windows, mac. My experience include working within a big corporate team as well as working independently. I am also a very friendly person that can get along well with other colleagues. Actively discuss Technical/business solutions with other teammates, shareholders and customers. I am also an combat veteran and proud of what i have done. Please view my previous projects at </span><a href="http://www.yangchenai.com" class="spText" >www.yangchenai.com</a><span class="spText">, Github account at </span><a href="http://www.github.com/cy19890513" class="spText">www.github.com/cy19890513</a>
         </p>
         </div>
       </article>
@@ -101,7 +101,7 @@
 			<li><a class="project-image" href="http://www.tivo.com/" title="TiVo web" alt="www.tivo.com" target="_blank">
 				<img src="./index_files/images/tivo_logo.jpg" width="240" height="240" align="center"><center class="litext spText">TiVo Website</center></a></li>
 
-			<li><a class="project-image" href="http://www.boostshore.com/haiwaixindai/" title="Finance App Prototype" alt="www.iwholesaleapp.com" target="_blank">
+			<li><a class="project-image" href="http://www.yangchenai.com/haiwaixindai/" title="Finance App Prototype" alt="www.iwholesaleapp.com" target="_blank">
 				<img src="./index_files/images/oversea_logo.png" width="240" height="240" align="center"><center class="litext spText">Overseas Credit App Demo</center></a></li>
 			
 			
@@ -111,11 +111,11 @@
 			-->
 
 			<!-- android project
-                        <li><a class="project-image" href="https://play.google.com/store/apps/details?id=us.tomiimassage.www" title="Android project" alt="Boostshore.com">
+                        <li><a class="project-image" href="https://play.google.com/store/apps/details?id=us.tomiimassage.www" title="Android project" alt="yangchenai.com">
 				<img src="./index_files/android.PNG" width="240" height="240" align="center"><center>Android Project</center></a></li>
                         -->
 			<!--
-			<li><a class="project-image" href="https://play.google.com/store/apps/details?id=com.vigo.alertness" title="Android project" alt="Boostshore.com" target="_blank">
+			<li><a class="project-image" href="https://play.google.com/store/apps/details?id=com.vigo.alertness" title="Android project" alt="yangchenai.com" target="_blank">
 				<img src="./index_files/images/vigo.png" width="240" height="240" align="center"><center class="litext spText">Android Project</center></a></li>
 			-->
 			<!--

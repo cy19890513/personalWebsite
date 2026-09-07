@@ -10,7 +10,7 @@
 
 		<meta name="viewport" content="width=device-width,initial-scale=1">
 
-		<link href="http://www.boostshore.com/index_files/favicon.ico" rel="shortcut icon">
+		<link href="http://www.yangchenai.com/index_files/favicon.ico" rel="shortcut icon">
 
 		<link rel="stylesheet" href="style.css">
 

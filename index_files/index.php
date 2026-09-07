@@ -69,7 +69,7 @@
                         <li><a class="project-image" href="./CIS560/index.php" title="Database project" alt="Bullishshore.com">
 				<img src="./index_files/bookstore.PNG" width="240" height="240" align="center"><center>Database Project</table></center></a></li>
 			
-			<li><a class="project-image" href="Bullishshore.php" title="Website project" alt="Boostshore.com">
+			<li><a class="project-image" href="Bullishshore.php" title="Website project" alt="yangchenai.com">
 				<img src="./index_files/websiteProject.PNG" width="240" height="240" align="center"><center>Website Project</center></a></li>
 			
 			<li><a class="project-image" href="./index_files/RoboticCompetition.php" title="Robotic project" alt="Bullishshore.com">

@@ -4,12 +4,12 @@
 		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width,initial-scale=1">
-		<link href="http://www.boostshore.com/index_files/favicon.ico" rel="shortcut icon">
+		<link href="http://www.yangchenai.com/index_files/favicon.ico" rel="shortcut icon">
 		<link rel="stylesheet" href="style.css">
 		<script src="https://code.jquery.com/jquery-3.1.0.min.js"></script>
-  		<script src="http://www.boostshore.com/index_files/myJS.js"></script>
-  		<script src="http://www.boostshore.com/index_files/jquery-stars.js"></script>
-  		<script src="http://www.boostshore.com/index_files/smothscrool.js"></script>
+  		<script src="http://www.yangchenai.com/index_files/myJS.js"></script>
+  		<script src="http://www.yangchenai.com/index_files/jquery-stars.js"></script>
+  		<script src="http://www.yangchenai.com/index_files/smothscrool.js"></script>
 		<meta name="keywords" content="Yang Chen _2166">
 		<meta name="description" content="Yang Chen#39;s Homepage on K-State CIS">
 		<style>
