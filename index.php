@@ -34,25 +34,25 @@
       <article class="hero clearfix">
         <div class="col_100">
 		<!--
-			<img src="./index_files/headshot.jpg" alt="Pretty Face" class="img_floatright" width="400" height="300"> 
+			<img src="./index_files/images/headshot.jpg" alt="Pretty Face" class="img_floatright" width="400" height="300"> 
 		-->	 
 		<section class="slider" width="400" height="300">
 			<div class="flexslider">
 			  <ul class="slides">
 				<!-- <li>
-				<img src="./index_files/slideImage1.jpg" />
+				<img src="./index_files/images/slideImage1.jpg" />
 				</li> -->
 				<li>
-				<img src="./index_files/slideImage2.JPG" />
+				<img src="./index_files/images/slideImage2.JPG" />
 				</li>
 				<li>
-				<img src="./index_files/slideImage3.JPG" />
+				<img src="./index_files/images/slideImage3.JPG" />
 				</li>
 				<li>
-				<img src="./index_files/slideImage4.JPG" />
+				<img src="./index_files/images/slideImage4.JPG" />
 				</li>
                                     <li>
-				<img src="./index_files/slideImage5.JPG" />
+				<img src="./index_files/images/slideImage5.JPG" />
 				</li>
 			  </ul>
 			</div>
@@ -99,15 +99,15 @@
 				<img src="./index_files/mealTally.PNG" width="240" height="240" align="center"><center class="litext spText">Public Library Meal Tally</center></a></li> -->
 
 			<li><a class="project-image" href="http://www.tivo.com/" title="TiVo web" alt="www.tivo.com" target="_blank">
-				<img src="./index_files/tivo_logo.jpg" width="240" height="240" align="center"><center class="litext spText">TiVo Website</center></a></li>
+				<img src="./index_files/images/tivo_logo.jpg" width="240" height="240" align="center"><center class="litext spText">TiVo Website</center></a></li>
 
 			<li><a class="project-image" href="http://www.boostshore.com/haiwaixindai/" title="Finance App Prototype" alt="www.iwholesaleapp.com" target="_blank">
-				<img src="./index_files/oversea_logo.png" width="240" height="240" align="center"><center class="litext spText">Overseas Credit App Demo</center></a></li>
+				<img src="./index_files/images/oversea_logo.png" width="240" height="240" align="center"><center class="litext spText">Overseas Credit App Demo</center></a></li>
 			
 			
 			<!-- ios project
 			<li><a class="project-image" href="https://itunes.apple.com/us/app/vigo-your-personal-energy/id1023648563?mt=8" title="IOT IOS APP" alt="itunes.apple.com/us/app/id912854241?mt=8" target="_blank">
-				<img src="./index_files/vigo.png" width="240" height="240" align="center"><center class="litext spText">VIGO IOS Project</center></a></li>
+				<img src="./index_files/images/vigo.png" width="240" height="240" align="center"><center class="litext spText">VIGO IOS Project</center></a></li>
 			-->
 
 			<!-- android project
@@ -116,7 +116,7 @@
                         -->
 			<!--
 			<li><a class="project-image" href="https://play.google.com/store/apps/details?id=com.vigo.alertness" title="Android project" alt="Boostshore.com" target="_blank">
-				<img src="./index_files/vigo.png" width="240" height="240" align="center"><center class="litext spText">Android Project</center></a></li>
+				<img src="./index_files/images/vigo.png" width="240" height="240" align="center"><center class="litext spText">Android Project</center></a></li>
 			-->
 			<!--
 			<li><a class="project-image" href="http://www.iwholesaleapp.com" title="wholesale app" alt="www.iwholesaleapp.com">
@@ -129,18 +129,18 @@
 				-->
 			<!--
 			<li><a class="project-image" href="http://iboostcompany.azurewebsites.net/Lawyer/SearchIndex" title="Website project" alt="Bullishshore.com">
-				<img src="./index_files/asp_net.JPG" width="240" height="240" align="center"><center>ASP.NET Project</center></a></li>	
+				<img src="./index_files/images/asp_net.JPG" width="240" height="240" align="center"><center>ASP.NET Project</center></a></li>	
 			-->
 			<!-- this is bestfit project.
 			<li><a class="project-image" href="http://bestfit2000.com" title="Website project" alt="bestfit2000.com">
-				<img src="./index_files/bestfit.png" width="240" height="240" align="center"><center>Magento Project</center></a></li>	
+				<img src="./index_files/images/bestfit.png" width="240" height="240" align="center"><center>Magento Project</center></a></li>	
 			-->
 			<li><a class="project-image" href="./index_files/TravelingSalesPerson.php" title="Traveling Sales Person" alt="Bullishshore.com" target="_blank">
-				<img src="./index_files/travelingSalesPerson.JPG" width="240" height="240" align="center" ><center class="litext spText">C# / Algorithm Project</center></a></li>	
+				<img src="./index_files/images/travelingSalesPerson.JPG" width="240" height="240" align="center" ><center class="litext spText">C# / Algorithm Project</center></a></li>	
 			
 			<!-- This is iboostcompany.com. ECommerce website
 			<li><a class="project-image" href="http://iboostcompany.com" title="Website project" alt="Bullishshore.com">
-				<img src="./index_files/opencart.JPG" width="240" height="240" align="center"><center>eCommerce Project</center></a></li>	
+				<img src="./index_files/images/opencart.JPG" width="240" height="240" align="center"><center>eCommerce Project</center></a></li>	
 			-->
 			<!--
             <li><a class="project-image" href="./CIS560/index.php" title="Database project" alt="Bullishshore.com">
@@ -173,13 +173,13 @@
 		<nav class="projects">	
 			<ul>
                         <li><a class="project-image" href="index_files/ACMcompetition2013.php" title="Local ACM Competition" alt="Local ACM Competition"  target="_blank">
-				<img src="./index_files/ACMcompetition2013.jpg" width="240" height="240"align="center"  ><center class="litext spText">Local ACM Competition 2nd Place</center></a></li>
+				<img src="./index_files/images/ACMcompetition2013.jpg" width="240" height="240"align="center"  ><center class="litext spText">Local ACM Competition 2nd Place</center></a></li>
 
 			<li><a class="project-image" href="index_files/2012STomas.php" title="2012 S Tomas Parker award" alt="S tomas Parker award"  target="_blank">
-				<img src="./index_files/SThomasParkerCompetitionAwardsMaxGoering_YangChen.jpg" width="240" height="240"align="center" ><center class="litext spText">S Tomas Parker Competition 1st Place 2012</center></a></li>
+				<img src="./index_files/images/SThomasParkerCompetitionAwardsMaxGoering_YangChen.jpg" width="240" height="240"align="center" ><center class="litext spText">S Tomas Parker Competition 1st Place 2012</center></a></li>
 			
 			<li><a class="project-image" href="index_files/2013STomas.php" title="2012 S Tomas Parker award" alt="S tomas Parker award"  target="_blank">
-				<img src="./index_files/STP-YChenIMG_3656.jpg" width="180" height="240" style="margin:auto;"align="center" ><center class="litext spText">S Tomas Parker Competition 1st Place 2013</center></a></li>
+				<img src="./index_files/images/STP-YChenIMG_3656.jpg" width="180" height="240" style="margin:auto;"align="center" ><center class="litext spText">S Tomas Parker Competition 1st Place 2013</center></a></li>
 
 			</ul>
 		</nav>

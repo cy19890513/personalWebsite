@@ -19,25 +19,25 @@
       <article class="hero clearfix">
         <div class="col_100">
 		<!--
-			<img src="./index_files/headshot.jpg" alt="Pretty Face" class="img_floatright" width="400" height="300"> 
+			<img src="./index_files/images/headshot.jpg" alt="Pretty Face" class="img_floatright" width="400" height="300"> 
 		-->	 
 			<section class="slider" width="400" height="300">
 				<div class="flexslider">
 				  <ul class="slides">
 					<li>
-					<img src="./index_files/slideImage1.jpg" />
+					<img src="./index_files/images/slideImage1.jpg" />
 					</li>
 					<li>
-					<img src="./index_files/slideImage2.JPG" />
+					<img src="./index_files/images/slideImage2.JPG" />
 					</li>
 					<li>
-					<img src="./index_files/slideImage3.JPG" />
+					<img src="./index_files/images/slideImage3.JPG" />
 					</li>
 					<li>
-					<img src="./index_files/slideImage4.JPG" />
+					<img src="./index_files/images/slideImage4.JPG" />
 					</li>
                                         <li>
-					<img src="./index_files/slideImage5.JPG" />
+					<img src="./index_files/images/slideImage5.JPG" />
 					</li>
 				  </ul>
 				</div>
@@ -97,13 +97,13 @@
 		<nav class="projects">	
 			<ul>
                         <li><a class="project-image" href="index_files/ACMcompetition2013.php" title="Local ACM Competition" alt="Local ACM Competition">
-				<img src="./index_files/ACMcompetition2013.jpg" width="240" height="240"align="center"  ><center>Local ACM Competition 2nd Place</center></a></li>
+				<img src="./index_files/images/ACMcompetition2013.jpg" width="240" height="240"align="center"  ><center>Local ACM Competition 2nd Place</center></a></li>
 
 			<li><a class="project-image" href="index_files/2012STomas.php" title="2012 S Tomas Parker award" alt="S tomas Parker award">
-				<img src="./index_files/SThomasParkerCompetitionAwardsMaxGoering_YangChen.jpg" width="240" height="240"align="center" ><center>S Tomas Parker Competition 1st Place 2012</center></a></li>
+				<img src="./index_files/images/SThomasParkerCompetitionAwardsMaxGoering_YangChen.jpg" width="240" height="240"align="center" ><center>S Tomas Parker Competition 1st Place 2012</center></a></li>
 			
 			<li><a class="project-image" href="index_files/2013STomas.php" title="2012 S Tomas Parker award" alt="S tomas Parker award">
-				<img src="./index_files/STP-YChenIMG_3656.jpg" width="180" height="240" style="margin-left:30px;margin-right:30px;"align="center" ><center>S Tomas Parker Competition 1st Place 2013</center></a></li>
+				<img src="./index_files/images/STP-YChenIMG_3656.jpg" width="180" height="240" style="margin-left:30px;margin-right:30px;"align="center" ><center>S Tomas Parker Competition 1st Place 2013</center></a></li>
 
 			
 			
@@ -120,11 +120,11 @@
 
       <nav class="menu_bottom">
         <ul>
-          <li><a class="social-icons" href="http://cis.ksu.edu/" title="KSU Computing and Information Sciences" alt="KSU CIS Icon"><img src="./index_files/ksucis.png" width="40" height="40"></a></li>
-		  <li><a class="social-icons" href="https://www.facebook.com/yang.chen.988" title="yang chen on Facebook" alt="Facebook Icon"><img src="./index_files/facebook.png" width="40" height="40"></a></li>
-	      <li><a class="social-icons" href="http://www.renren.com/238803453/profile" title="yang chen on Renren" alt="Renren Icon"><img src="./index_files/renren.jpg" width="40" height="40"></a></li>
-		  <li><a class="social-icons" href="http://www.weibo.com/2632247323/profile?rightmod=1&wvr=5&mod=personinfo" title="yang chen on Weibo" alt="Weibo Icon"><img src="./index_files/weibo.jpg" width="40" height="40"></a></li>
-		  <li><a class="social-icons" href="" title="email yang chen" alt="Email Icon"><img src="./index_files/email.jpg" width="40" height="40"></a></li>
+          <li><a class="social-icons" href="http://cis.ksu.edu/" title="KSU Computing and Information Sciences" alt="KSU CIS Icon"><img src="./index_files/images/ksucis.png" width="40" height="40"></a></li>
+		  <li><a class="social-icons" href="https://www.facebook.com/yang.chen.988" title="yang chen on Facebook" alt="Facebook Icon"><img src="./index_files/images/facebook.png" width="40" height="40"></a></li>
+	      <li><a class="social-icons" href="http://www.renren.com/238803453/profile" title="yang chen on Renren" alt="Renren Icon"><img src="./index_files/images/renren.jpg" width="40" height="40"></a></li>
+		  <li><a class="social-icons" href="http://www.weibo.com/2632247323/profile?rightmod=1&wvr=5&mod=personinfo" title="yang chen on Weibo" alt="Weibo Icon"><img src="./index_files/images/weibo.jpg" width="40" height="40"></a></li>
+		  <li><a class="social-icons" href="" title="email yang chen" alt="Email Icon"><img src="./index_files/images/email.jpg" width="40" height="40"></a></li>
 
 		
 		</ul>
