@@ -89,6 +89,11 @@
 				<img src="./index_files/boardgame.PNG" width="240" height="240" align="center"><center class="litext spText">Reactjs board game</center></a></li>
 			<li><a class="project-image" href="http://888consulting.strikingly.com/" title="888 Consulting" alt="888consulting.strikingly.com" target="_blank">
 				<img src="./index_files/888Consulting.PNG" width="240" height="240" align="center"><center class="litext spText">Consulting Company</center></a></li>
+			<!-- Object Motion prediction in Autonomous Driving -->
+			<!-- omp-in-ad.pdf -->
+
+			<!-- Learning interactions with Micro-mobility vehicles for Self-Driving Cars -->
+			<!--  SelfDrivingCarV1.pdf -->
 			<!-- meal tally
 				 <li><a class="project-image" href="https://sjpl-meal-tally.herokuapp.com/" title="Public Library Meal Tally" alt="sjpl-meal-tally.herokuapp.com" target="_blank">
 				<img src="./index_files/mealTally.PNG" width="240" height="240" align="center"><center class="litext spText">Public Library Meal Tally</center></a></li> -->
